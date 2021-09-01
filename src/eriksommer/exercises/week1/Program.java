@@ -1,4 +1,4 @@
-package eriksommer.week1;
+package eriksommer.exercises.week1;
 
 import java.util.Arrays;
 import java.util.Random;

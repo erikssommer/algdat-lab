@@ -1,4 +1,4 @@
-package eriksommer.week2;
+package eriksommer.exercises.week2;
 
 public class BinaryTree {
     public int parent(int id) {
